@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+}
+.msg{
+    box-shadow: 1px 1px 3px 1px lightgray;
+    padding: 20px;
+    margin-top: 4rem;
+}
+.btn{
+    margin-left: 6rem;
+    margin: 30px 6rem;
+}
+.install{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+#harm{
+    width: 400px;
+}
+#inst{
+    width: 250px;
+}
+#download-page{
+    margin-top: 4rem;
+    width: auto;
+    min-height: 200px;
+}
